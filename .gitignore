@@ -253,3 +253,10 @@ pyrightconfig.json
 
 # podman
 layers*/
+
+# vim
+*.swp
+*.ses
+
+
+secrets*
