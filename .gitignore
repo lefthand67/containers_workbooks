@@ -254,6 +254,11 @@ pyrightconfig.json
 # podman
 layers*/
 
+# all the test, drafts, tmp files
+test*
+draft*
+tmp*
+
 # vim
 *.swp
 *.ses
